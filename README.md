@@ -2,13 +2,27 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/user-needs/blob/main/docs/INSTRUCTIONS.md)
 
+### Navigatie
+
+>  <br>
+>  <br>
+>
+
 ## Scroll-driven Animation
+
+issue: https://github.com/fdnd-agency/avl/issues/78
 
 ### Screenshot
 
+![Image](https://github.com/user-attachments/assets/50fcf5d3-62f8-4737-b981-97e78ef98037)
+
 ### Prompt
 
+```Glitzy holographic surreal scroll-driven animation```
+
 ### Inspiratie
+
+![image](https://github.com/user-attachments/assets/836b3239-faae-4cd1-bc4d-309b6cb89e4d)
 
 ### URL
 
@@ -16,11 +30,19 @@ https://oncollaboration-git-scroll-driven-a-4e2e08-itsvalyrias-projects.vercel.a
 
 ## View-transition
 
+issue: https://github.com/fdnd-agency/avl/issues/77
+
 ### Screenshot
+
+![Image](https://github.com/user-attachments/assets/c4f1c73a-6bea-4b58-aa62-bb09a1da4c07)
 
 ### Prompt
 
+```Freaky experimental escapist view transition```
+
 ### Inspiratie
+
+![Image](https://github.com/user-attachments/assets/b838798e-1647-41c8-836d-e055de88a231)
 
 ### URL
 
@@ -28,11 +50,19 @@ https://oncollaboration-git-view-transition-77-itsvalyrias-projects.vercel.app/
 
 ## Christmas theme
 
+issue: https://github.com/fdnd-agency/avl/issues/80
+
 ### Screenshot
+
+![image](https://github.com/user-attachments/assets/91d0d9ae-b7e3-430c-8b15-b8a0baaa95ff)
 
 ### Prompt
 
+![image](https://github.com/user-attachments/assets/710481f3-d818-4131-beba-cb1df620097e)
+
 ### Inspiratie
+
+![image](https://github.com/user-attachments/assets/423b65fa-f9ab-4aaa-be3b-60446b226ea3)
 
 ### URL
 
