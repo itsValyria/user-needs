@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "rundschrift";
+  src: url(/fonts/vag_rundschrift_d.woff2) format("woff2");
+}
+
+:root {
+  --font: sans-serif;
+  --heading-font: "rundschrift", sans-serif;
+
+  /* ---------- Font sizes ---------- */
+  --font-size-xs: 0.5rem;
+  --font-size-sm: 0.75rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.875rem;
+  --font-size-3xl: 2rem;
+  --font-size-4xl: 2.5rem;
+  --font-size-5xl: 3rem;
+  --font-size-6xl: 3.5rem;
+
+  /* ---------- Colors: Text ---------- */
+  --text-color: #000;
+  --alt-text-color: #fff;
+
+  /* ---------- Colors: General ---------- */
+  --primary-color: #6a0025;
+  --background-color: #f0e5e9;
+  --background-color-alt: #fff;
+  --background-category-color: #d2b2bd;
+
+  /* ---------- Paddings ---------- */
+  --padding-button: 8px 16px;
+  --padding-label: 4px;
+
+  /* ---------- Border radius ---------- */
+  --border-radius-sm: 6px;
+  --border-radius-md: 12px;
+  --border-nav: 3px solid var(--primary-color);
+
+  /* ---------- Misc ---------- */
+  --gap: .5rem;
+  --card-max-width: 384px;
+  --focus: solid 2px blue;
+}
+
+/* ---------- Christmas Theme Styling ---------- */
+
+:root[data-theme="christmas"] {
+/* ---------- Colors: Text ---------- */
+  --text-color: #4a4a4a;
+  --alt-text-color: #ffffff;
+
+  /* ---------- Colors: General ---------- */
+  --primary-color: #d88aa6;
+  --background-color: #f8f3f6;
+  --background-color-alt: #ffffff;
+  --background-category-color: #e6d6de;
+}
+
+html[data-theme="christmas"] .see-all {
+  padding-top: 1.2rem;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  font-family: var(--font);
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font);
+  font-weight: 400;
+}
+
+:focus {
+  outline: var(--focus);
+  border-radius: var(--border-radius-sm);
+}
+
+:focus:not(:focus-visible) {
+  outline: 0;
+}
+
+::placeholder {
+  color: var(--text-color);
+}
