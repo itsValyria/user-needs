@@ -4,11 +4,11 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/us
 
 ### Navigatie
 
->  <br>
->  <br>
->
+> [🔴 Scroll-driven Animation](https://github.com/itsValyria/user-needs/blob/main/README.md#scroll-driven-animation) <br>
+> [🎁 View Transition](https://github.com/itsValyria/user-needs/blob/main/README.md#view-transition) <br>
+> [🎄 Cchristmas Theme](https://github.com/itsValyria/user-needs/blob/main/README.md#christmas-theme)
 
-## Scroll-driven Animation
+## 🔴 Scroll-driven Animation
 
 issue: https://github.com/fdnd-agency/avl/issues/78
 
@@ -28,7 +28,7 @@ issue: https://github.com/fdnd-agency/avl/issues/78
 
 https://oncollaboration-git-scroll-driven-a-4e2e08-itsvalyrias-projects.vercel.app/
 
-## View-transition
+## 🎁 View-transition
 
 issue: https://github.com/fdnd-agency/avl/issues/77
 
@@ -48,7 +48,7 @@ issue: https://github.com/fdnd-agency/avl/issues/77
 
 https://oncollaboration-git-view-transition-77-itsvalyrias-projects.vercel.app/
 
-## Christmas theme
+## 🎄 Christmas Theme
 
 issue: https://github.com/fdnd-agency/avl/issues/80
 
